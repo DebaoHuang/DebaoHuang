@@ -8,13 +8,12 @@
 
 <p style="text-align:center">
   <a href="https://debaohuang.github.io/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/website-00b2d2.svg?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://github.com/DebaoHuang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/DebaoHuang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-567277.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/debao-huang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://scholar.google.com/citations?user=OkHkN_kAAAAJ&hl=en&oi=ao" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge" /></a> 
+  <a href="https://scholar.google.com/citations?user=OkHkN_kAAAAJ&hl=en&oi=ao" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a> 
 
 </p>
 
 <h2>Github status</h2>
 
 [![GitHub stats](https://my-readme-stats-mu.vercel.app/api?username=DebaoHuang&theme=tokyonight&show_icons=true)](https://github.com/DebaoHuang/my-readme-stats)
-[![Top Langs](https://my-readme-stats-mu.vercel.app/api/top-langs/?username=DebaoHuang&layout=compact)](https://github.com/DebaoHuang/my-readme-stats)
