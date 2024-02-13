@@ -10,7 +10,7 @@ I am working on multiple projects funded by <a href="https://www.nre.navy.mil">O
 
 <h2>📈 Github status</h2>
 
-[![GitHub stats](https://my-readme-stats-mu.vercel.app/api?username=DebaoHuang&theme=tokyonight&show_icons=true)](https://github.com/DebaoHuang/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-p10yxvzmp-debaohuangs-projects.vercel.app/api?username=DebaoHuang&theme=tokyonight&show_icons=true)](https://github.com/DebaoHuang/github-readme-stats)
 
 <h2>👀 Follow me</h2>
 
