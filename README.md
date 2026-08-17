@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514812/8268/blob-hype.gif?1643514812" width="30"/> Hey! Nice to see you.</h1>
 
-<p>My name is Debao Huang. I recently completed my PhD in Electrical and Computer Engineering at The Ohio State University, where I was a member of the <a href="https://u.osu.edu/qin.324/research/">Geospatial Data Analytics Group</a>.</p>
+<p>My name is Debao Huang. I received my PhD in Electrical and Computer Engineering from The Ohio State University in August 2026, where I was a member of the <a href="https://u.osu.edu/qin.324/research/">Geospatial Data Analytics Group</a>.</p>
 
 <p>I started in January 2021 and was supervised by <a href="https://u.osu.edu/qin.324/">Prof. Rongjun Qin</a>. My research focuses on large-scale 3D reconstruction (SfM, NeRF, 3DGS, 4DGS) and uncertainty quantification. Additionally, I leverage vision foundation models and multimodal learning to advance large-scale 3D scene understanding.</p>
 
